@@ -1,3 +1,3 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0)](https://github.com/modernpacifist)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=cmake,makefile,jupyter%20notebook&langs_count=10&card_width=375)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=cmake,makefile,jupyter%20notebook&langs_count=10&card_width=325)](https://github.com/anuraghazra/github-readme-stats)
