@@ -1,6 +1,12 @@
 ### Hey 👋
 
-My name is Alex Petrosyan, a self-taught back-end software engineer from Saint-Petersburg, Russia. My main idea - to create functional things from nothing with the use of computer science and abstractions. I do love solving problems and self-development. The moment I come across something new - I learn it.
+My name is Alex Petrosyan, a self-taught back-end software engineer from Russia. Currently I'm a student at State University of Aerospace Instrumentation in Saint-Petersburg, where I study Biomechanics. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it.
+
+#### I love to:
+- Resolve problems
+- Learn new things
+- Self-development
+- Study Math/Biology/Psychology
 
 #### Languages and tools I use:
 <p align="left">
@@ -23,3 +29,6 @@ My name is Alex Petrosyan, a self-taught back-end software engineer from Saint-P
 #### My github stats:
 [![modernpacifist's GitHub stats](https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0)](https://github.com/modernpacifist)
 [![modernpacifist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=cmake,makefile,jupyter%20notebook&langs_count=10&card_width=250)](https://github.com/modernpacifist)
+
+#### My constant TODO list:
+- [ ] Improve
