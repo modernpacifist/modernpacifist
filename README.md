@@ -1,6 +1,5 @@
 ### Hey 👋
-
-My name is Alex Petrosyan, a self-taught back-end software engineer from Russia. Currently I'm a student at State University of Aerospace Instrumentation in Saint-Petersburg, where I study Biomechanics. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it.
+My name is Alex Petrosyan, a self-taught back-end software engineer from Russia. Currently I'm a student at the State University of Aerospace Instrumentation in Saint-Petersburg, where I study Biomechanics. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it. At free time I enjoy playing chess, doing sports, practicing reverse-engineering.
 
 #### I love to:
 - Resolve problems
@@ -31,4 +30,4 @@ My name is Alex Petrosyan, a self-taught back-end software engineer from Russia.
 [![modernpacifist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=cmake,makefile,jupyter%20notebook&langs_count=10&card_width=250)](https://github.com/modernpacifist)
 
 #### My constant TODO list:
-- [ ] Improve
+- [x] Improve
