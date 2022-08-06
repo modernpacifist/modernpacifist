@@ -30,3 +30,5 @@ My name is Alex Petrosyan, a self-taught back-end software engineer from Russia.
 
 #### My constant TODO list:
 - [x] Improve
+
+![](https://komarev.com/ghpvc/?username=modernpacifist)
