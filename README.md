@@ -9,7 +9,9 @@
 </div>
 
 <div align="center"> 
-  <h4>I interested in:</h4>
+  <h4>
+    I interested in:
+  </h4>
 </div>
 
 <div align="center">
@@ -18,7 +20,11 @@
   <li>Acquiring new attainments</li>
 </div>
 
-<div align="center"> <h4>Languages and tools I use:</h4> </div>
+<div align="center">
+  <h4>
+    Languages and tools I use:
+  </h4>
+</div>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
