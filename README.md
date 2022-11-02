@@ -1,13 +1,25 @@
-### Hey 👋
-My name is Alex Petrosyan, I am self-taught back-end software engineer and a magistracy student at Ural Federal University, where I study the Engineering of Machine Learning. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it. In spare time I enjoy playing chess, doing sports, practicing reverse-engineering.
+<div align="center">
+  <h3>
+    Hey 👋
+  </h3>
+</div>
 
-#### I love to:
-- Resolve problems
-- Learn new things
-- Self-development
-- Study Math/Biology/Psychology
+<div align="center">
+  My name is Alex Petrosyan, I am self-taught back-end software engineer and a magistracy student at Ural Federal University, where I study the Engineering of Machine Learning. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it. In spare time I enjoy playing chess, doing sports, practicing reverse-engineering.
+</div>
 
-#### Languages and tools I use:
+<div align="center"> 
+  <h4>I interested in:</h4>
+</div>
+
+<div align="center">
+  <li>Mathematics</li>
+  <li>Resolving problems</li>
+  <li>Acquiring new attainments</li>
+</div>
+
+<div align="center"> <h4>Languages and tools I use:</h4> </div>
+
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/> </a>
@@ -24,15 +36,26 @@ My name is Alex Petrosyan, I am self-taught back-end software engineer and a mag
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/> </a>
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/> </a> 
-</p>  
-
-#### My github stats:
+</p>
 
 <div align="center">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&card_width=550" />
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=jupyter%20notebook&langs_count=10&card_width=500" />
+  <h4>
+    My github stats:
+  </h4>
 </div>
 
+<div align="center">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&card_width=600" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=jupyter%20notebook&langs_count=10&card_width=550" />
+</div>
 
-#### My constant TODO list:
+<div align="center">
+  <h4>
+    My constant TODO list:
+  </h4>
+</div>
+
+<div align="center">
+
 - [x] Improve
+</div>
