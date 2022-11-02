@@ -28,10 +28,9 @@ My name is Alex Petrosyan, I am self-taught back-end software engineer and a mag
 
 #### My github stats:
 
-<div align="center" style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0" />  
- 
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=cmake,makefile,jupyter%20notebook&langs_count=6" />
+<div align="center">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&card_width=550" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=jupyter%20notebook&langs_count=10&card_width=500" />
 </div>
 
 
