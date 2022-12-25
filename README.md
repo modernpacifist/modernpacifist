@@ -18,6 +18,7 @@
   <li>Mathematics</li>
   <li>Resolving problems</li>
   <li>Acquiring new attainments</li>
+  <li>Solving real-world problems</li>
 </div>
 
 <div align="center">
