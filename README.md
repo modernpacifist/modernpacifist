@@ -54,7 +54,7 @@
 
 <div align="center">
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&card_width=600" />
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=jupyter%20notebook&langs_count=10&card_width=550" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_radius=0&hide=jupyter%20notebook,gdb&langs_count=10&card_width=550" />
 </div>
 
 <div align="center">
