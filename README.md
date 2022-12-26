@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  My name is Alexander Petrosyan, I am a self-taught back-end software engineer and a magistracy student at Ural Federal University, where I study the Engineering of Machine Learning. My main idea - to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new - I learn it. In spare time I enjoy playing chess, doing sports, practicing reverse-engineering.
+  My name is Alexander Petrosyan. I am a self-taught back-end software engineer and a master's student at Ural Federal University, where I study the engineering of machine learning. My main idea is to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new, I learn it. In my spare time, I enjoy playing chess, doing sports, and practicing reverse engineering.
 </div>
 
 <div align="center"> 
