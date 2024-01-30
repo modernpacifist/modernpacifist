@@ -59,7 +59,7 @@
 
 <div align="center">
     <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=modernpacifist&show_icons=true&line_height=25&count_private=true&hide=stars&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&border_color=000000&card_width=650&custom_title=Overall%20data&include_all_commits=true" width="650" /> <br>
-    <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide=jupyter%20notebook,gdb,html&langs_count=10&border_color=000000&card_width=600" width="650" /> <br>
+    <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=modernpacifist&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide=jupyter%20notebook,gdb,html,c&langs_count=10&border_color=000000&card_width=600" width="650" /> <br>
     <img class="img" src="https://github-readme-activity-graph.vercel.app/graph?username=modernpacifist&theme=high-contrast&hide_border=true&custom_title=Contribution%20graph" width="650" />
 </div>
 
