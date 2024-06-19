@@ -29,27 +29,30 @@
 
 <div align="center" padding="20px">
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width=37 height=37/>&nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/poetry/poetry-original.svg alt=poetry width=37 height=37/>&nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt=go width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt=csharp width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt=c width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt=cplusplus width=37 height=37/> &nbsp;
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg alt=docker width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg alt=cplusplus width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=docker width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg alt=jenkins width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg alt=fastapi width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg alt=arduino width=37 height=37/> &nbsp;
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg alt=arduino width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg alt=arduino width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg alt=arduino width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg alt=redis width=37 height=37/> &nbsp;
   <img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt=git width=37 height=37/> &nbsp;
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg alt=bash width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width=37 height=37/> &nbsp;
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg alt=debian width=37 height=37/> &nbsp;
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg alt=vim width=37 height=37/> &nbsp;
-  <img src=https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg alt=mariadb width=37 height=37/> &nbsp;
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg alt=neovim width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width=37 height=37/> &nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg alt=postgresql width=37 height=37/> &nbsp;
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg alt=flask width=37 height=37/> &nbsp;
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg alt=jupyter width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg alt=postman width=37 height=37/> &nbsp;
   <img src=https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png alt=matlab width=37 height=37/> &nbsp;
   <img src=https://cdn.worldvectorlogo.com/logos/arduino-1.svg alt=arduino width=37 height=37/> &nbsp;
   <img src=https://download.blender.org/branding/community/blender_community_badge_white.svg alt=blender width=37 height=37/> &nbsp;
