@@ -56,6 +56,7 @@
   <img src=https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png alt=matlab width=37 height=37/> &nbsp;
   <img src=https://cdn.worldvectorlogo.com/logos/arduino-1.svg alt=arduino width=37 height=37/> &nbsp;
   <img src=https://download.blender.org/branding/community/blender_community_badge_white.svg alt=blender width=37 height=37/> &nbsp;
+  <img src=https://raw.githubusercontent.com/locustio/locust/refs/heads/master/locust/webui/public/assets/favicon-dark.png alt=locust width=37 height=37/> &nbsp;
 </div>
 
 <div align="center">
