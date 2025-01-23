@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  My name is Alexander Petrosyan. I am a self-taught back-end software engineer and a master's student at Ural Federal University, where I study the engineering of machine learning. My main idea is to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new, I learn it. In my spare time, I enjoy playing chess, doing sports, and practicing reverse engineering.
+  My name is Alexander Petrosyan. I am a self-taught back-end software engineer and a master's student at Ural Federal University, where I study the engineering of machine learning. My main idea is to create functional things from nothing with the use of computer science and abstractions. The moment I come across something new, I learn it.
 </div>
 
 <div align="center"> 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <li>Mathematics</li>
-  <li>Making something work</li>
+  <li>Solving problems</li>
   <li>Acquiring new attainments</li>
 </div>
 
@@ -78,4 +78,9 @@
 <div align="center">
 
 - [x] Improve
+</div>
+
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=modernpacifist)
 </div>
